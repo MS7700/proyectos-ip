@@ -11,7 +11,6 @@ namespace PracticaII
     {
         //Cambiar connectionString dependiendo de su base de datos
         private string connectionString = "Data Source=LAPTOP-6NR7NCCT;Initial Catalog=PRACTICA_2;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
-        
         public NominaDB()
         {
             
