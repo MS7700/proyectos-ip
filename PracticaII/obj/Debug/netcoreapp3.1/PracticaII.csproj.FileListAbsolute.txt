@@ -21,4 +21,3 @@ C:\Users\manue\proyectos-ip\PracticaII\bin\Debug\netcoreapp3.1\runtimes\win-x86\
 C:\Users\manue\proyectos-ip\PracticaII\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\manue\proyectos-ip\PracticaII\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\manue\proyectos-ip\PracticaII\obj\Debug\netcoreapp3.1\PracticaII.csproj.CopyComplete
-C:\Users\manue\proyectos-ip\PracticaII\obj\Debug\netcoreapp3.1\PracticaII.csprojAssemblyReference.cache

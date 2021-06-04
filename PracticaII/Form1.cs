@@ -24,22 +24,14 @@ namespace PracticaII
             //Coge la fecha que se selecciona para hallar el periodo
             DateTime periodo = dateTimePicker1.Value;
             escritura.CrearTXT(periodo);
-            NominaDB db = new NominaDB();
-            List<Nomina> myNomina = db.getNominaFerreteria(dateTimePicker1.Value);
-            label2.Text = myNomina.Count().ToString() + " " + myNomina.First().Sueldo;
-
-            db.InsertToNominaTSS(myNomina.First());
 
         }
 
         private void btnLeerTXT_Click(object sender, EventArgs e)
         {
-
+            Lectura lectura = new Lectura();
+            lectura.LeerTXTaDB();
         }
 
-        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
