@@ -45,3 +45,4 @@ C:\Users\noel5\Source\Repos\proyectos-ip\PracticaII\obj\Debug\netcoreapp3.1\Prac
 C:\Users\noel5\Source\Repos\proyectos-ip\PracticaII\obj\Debug\netcoreapp3.1\PracticaII.dll
 C:\Users\noel5\Source\Repos\proyectos-ip\PracticaII\obj\Debug\netcoreapp3.1\PracticaII.pdb
 C:\Users\noel5\Source\Repos\proyectos-ip\PracticaII\obj\Debug\netcoreapp3.1\PracticaII.genruntimeconfig.cache
+C:\Users\manue\proyectos-ip\PracticaII\obj\Debug\netcoreapp3.1\PracticaII.csprojAssemblyReference.cache
