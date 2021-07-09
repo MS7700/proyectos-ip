@@ -8,3 +8,17 @@ C:\Users\hp\source\repos\Interfaz\Interfaz\obj\Debug\Interfaz.csproj.GenerateRes
 C:\Users\hp\source\repos\Interfaz\Interfaz\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
 C:\Users\hp\source\repos\Interfaz\Interfaz\obj\Debug\Interfaz.exe
 C:\Users\hp\source\repos\Interfaz\Interfaz\obj\Debug\Interfaz.pdb
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaIV\ImplementacionWS\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaIV\ImplementacionWS\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaIV\ImplementacionWS\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaIV\ImplementacionWS\Interfaz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaIV\ImplementacionWS\Interfaz\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaIV\ImplementacionWS\Interfaz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaIV\ImplementacionWS\Interfaz\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaIV\ImplementacionWS\Interfaz\obj\Debug\Interfaz.csprojAssemblyReference.cache
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaIV\ImplementacionWS\Interfaz\obj\Debug\Interfaz.Form1.resources
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaIV\ImplementacionWS\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaIV\ImplementacionWS\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.cache
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaIV\ImplementacionWS\Interfaz\obj\Debug\Interfaz.csproj.CopyComplete
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaIV\ImplementacionWS\Interfaz\obj\Debug\Interfaz.exe
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaIV\ImplementacionWS\Interfaz\obj\Debug\Interfaz.pdb

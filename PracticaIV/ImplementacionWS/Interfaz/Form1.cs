@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Interfaz.App;
+using Interfaz.Model;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -22,9 +24,9 @@ namespace Interfaz
 
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private async void Form1_Load(object sender, EventArgs e)
         {
-
+            Periodo.DataSource = await NominaWebService.GetPeriodosAsync();
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -40,6 +42,13 @@ namespace Interfaz
         private void label1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private async void button1_ClickAsync(object sender, EventArgs e)
+        {
+            String periodo = Periodo.Text;
+            IList<Registro> nomina = await NominaWebService.GetNominaAsync(periodo);
+            dataGridView1.DataSource = nomina;
         }
     }
 }
