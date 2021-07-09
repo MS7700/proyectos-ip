@@ -1,0 +1,14 @@
+Deberá crear una base de datos Ferreteria, con un tabla llamada nomina, con los siguientes campos:
+cedula, sueldo, periodo.
+Deberá crear los siguientes web service:
+List<String> getPeriodos(), que devolverá el listado de periodos disponible en la base de datos
+(habrá que pasar todos los valores diferentes que aparece en el campo periodo, por ejemplo
+"Enero 2021","Febrero 2021", "Marzo 2021".
+List<Registro> getNomina(String periodo), que se le pasará el periodo y devolverá el listado de
+registros de la nomina que tiene ese periodo.
+
+Otros datos:
+
+El objeto Registro tendrá las propiedades Cedula (String), Sueldo (Double), Periodo (String)
+
+El periodo tendrá el siguiente formato "Mes año", por ejemplo "Enero 2021". 

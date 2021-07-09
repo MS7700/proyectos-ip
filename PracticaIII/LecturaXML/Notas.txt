@@ -1,0 +1,5 @@
+Se deberá crear un winform que pida al usuario que escoja la dirección del XML, y lo lea para 
+proyectar cada asiento en pantalla.
+Cada asiento tendrá un número de asiento, descripción y fecha. En cada asiento pueden haber varios 
+movimientos, y cada movimiento contiene cuenta (este tiene número de cuenta y descripción), un tipo de
+movimiento (débito/crédito) y monto.

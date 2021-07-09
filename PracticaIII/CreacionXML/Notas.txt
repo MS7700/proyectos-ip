@@ -1,0 +1,7 @@
+Deberá crear la base de datos Asientos, tomando en cuenta la plantilla de XML PracticaIIIPropietaria.
+Cada asiento tendrá un número de asiento, descripción y fecha. En cada asiento pueden haber varios 
+movimientos, y cada movimiento contiene cuenta (este tiene número de cuenta y descripción), un tipo de
+movimiento (débito/crédito) y monto.
+
+El programa deberá leer la base de datos y convertir estos datos en XML siguiendo la estructura
+de la plantilla.

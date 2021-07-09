@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<asientos>
+    <asiento noasiento="1">
+        <encabezado>
+            <descripcion>
+                Asiento de Nomina de empleado
+            </descripcion>
+            <fecha>
+                7/7/2021
+            </fecha>
+        </encabezado>
+        <detalle>
+            <movimiento>
+                <cuenta>
+                    <nocuenta>
+                        18
+                    </nocuenta>
+                    <descripcion>
+                        Nomina
+                    </descripcion>
+                </cuenta>
+                <tipomovimiento>
+                    CR
+                </tipomovimiento>
+                <monto>
+                    500000
+                </monto>
+            </movimiento>
+            <movimiento>
+                <cuenta>
+                    <nocuenta>
+                        35
+                    </nocuenta>
+                    <descripcion>
+                        Banco
+                    </descripcion>
+                </cuenta>
+                <tipomovimiento>
+                    DB
+                </tipomovimiento>
+                <monto>
+                    500000
+                </monto>
+            </movimiento>
+        </detalle>
+    </asiento>
+        <asiento noasiento="2">
+        <encabezado>
+            <descripcion>
+                Celebracion de cumpleaños empleado
+            </descripcion>
+            <fecha>
+                8/7/2021
+            </fecha>
+        </encabezado>
+        <detalle>
+            <movimiento>
+                <cuenta>
+                    <nocuenta>
+                        3
+                    </nocuenta>
+                    <descripcion>
+                        Cumpleaños
+                    </descripcion>
+                </cuenta>
+                <tipomovimiento>
+                    CR
+                </tipomovimiento>
+                <monto>
+                    3000
+                </monto>
+            </movimiento>
+            <movimiento>
+                <cuenta>
+                    <nocuenta>
+                        50
+                    </nocuenta>
+                    <descripcion>
+                        Dinero en caja
+                    </descripcion>
+                </cuenta>
+                <tipomovimiento>
+                    DB
+                </tipomovimiento>
+                <monto>
+                    3000
+                </monto>
+            </movimiento>
+        </detalle>
+    </asiento>
+</asientos>

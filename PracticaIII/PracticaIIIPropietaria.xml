@@ -1,0 +1,59 @@
+﻿<!--
+La Maderera Madeco utiliza PeachTree como Sistema de Contabilidad, internamente desarrollaron un Sistema de Activos Fijos. 
+El Sistema PeachTree permite la integración con otros productos mediante archivos XML en un formato indicado en la parametrización del mismo. 
+Diseñe el archivo XML que permitirá pasar los datos del Asiento de Activos Fijos a Contabilidad(usando XML Schema).
+
+Datos mínimos del asiento:
+2.No. del asiento
+3.Descripción del asiento
+4.Fecha del asiento
+5.Cuenta contable
+6.Tipo de Movimiento (DB / CR)
+7.Monto del movimiento
+-->
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema
+	xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name = "asientos">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="asiento">
+					<xs:complexType>
+						<xs:attribute name="noasiento" type="xs:ID" use="required"/>
+						<xs:element name="encabezado">
+							<xs:complexType>
+								<xs:element name="descripcion" type="xs:string"/>
+								<xs:element name="fecha" type="xs:date"/>
+							</xs:complexType>
+						</xs:element>
+						<xs:element name="detalle">
+							<xs:complexType>
+								<xs:sequence>
+									<xs:element name="movimiento">
+										<xs:complexType>
+											<xs:element name="cuenta">
+												<xs:complexType>
+													<xs:element name="nocuenta" type="xs:positiveInteger"/>
+													<xs:element name="descripcion" type="xs:string"/>
+												</xs:complexType>
+											</xs:element>
+											<xs:element name="tipomovimiento" type="xs:string">
+												<xs:simpleType>
+													<xs:restriction base="xs:string">
+														<xs:pattern value="/^(DB|CR)$/"/>
+													</xs:restriction>
+												</xs:simpleType>
+											</xs:element>
+											<xs:element name="monto" type="xs:decimal"/>
+										</xs:complexType>
+									</xs:element>
+								</xs:sequence>
+							</xs:complexType>
+						</xs:element>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema> 

@@ -1,0 +1,17 @@
+Crear un winform
+El form va a tener un selectbox para seleccionar los periodos
+Va a tener un datagridview para mostrar los registros de la nómina, el datagridview será una tabla
+con las columnas cedula y sueldo.
+
+La información la va a obtener al consumir los web services:
+List<String> getPeriodos(), que devolverá el listado de periodos disponible en la base de datos, 
+por ejemplo "Enero 2021","Febrero 2021", "Marzo 2021".
+List<Registro> getNomina(String periodo), que se le pasará el periodo y devolverá el listado de
+registros de la nomina.
+
+Otros datos:
+
+El objeto Registro tendrá las propiedades Cedula (String), Sueldo (Double), Periodo (String)
+
+El periodo tendrá el siguiente formato "Mes año", por ejemplo "Enero 2021". 
+ 
