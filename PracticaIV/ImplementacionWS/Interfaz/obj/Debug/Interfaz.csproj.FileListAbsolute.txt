@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Interfaz\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\hp\source\repos\Interfaz\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\hp\source\repos\Interfaz\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\hp\source\repos\Interfaz\Interfaz\obj\Debug\Interfaz.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Interfaz\Interfaz\obj\Debug\Interfaz.Form1.resources
+C:\Users\hp\source\repos\Interfaz\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+C:\Users\hp\source\repos\Interfaz\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Interfaz\Interfaz\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Interfaz\Interfaz\obj\Debug\Interfaz.exe
+C:\Users\hp\source\repos\Interfaz\Interfaz\obj\Debug\Interfaz.pdb
