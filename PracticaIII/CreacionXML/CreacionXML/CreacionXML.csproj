@@ -10,4 +10,19 @@
     <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Update="BDPrueba.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>BDPrueba.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="BDPrueba.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BDPrueba.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
 </Project>
