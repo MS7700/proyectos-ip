@@ -1,0 +1,9 @@
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaV\CXC\CXC\bin\Debug\CXC.exe.config
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaV\CXC\CXC\bin\Debug\CXC.exe
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaV\CXC\CXC\bin\Debug\CXC.pdb
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaV\CXC\CXC\obj\Debug\CXC.csprojAssemblyReference.cache
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaV\CXC\CXC\obj\Debug\CXC.Form1.resources
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaV\CXC\CXC\obj\Debug\CXC.Properties.Resources.resources
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaV\CXC\CXC\obj\Debug\CXC.csproj.GenerateResource.cache
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaV\CXC\CXC\obj\Debug\CXC.exe
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaV\CXC\CXC\obj\Debug\CXC.pdb
