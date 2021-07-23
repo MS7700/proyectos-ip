@@ -1,0 +1,9 @@
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaV\Facturas\Facturas\bin\Debug\Facturas.exe.config
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaV\Facturas\Facturas\bin\Debug\Facturas.exe
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaV\Facturas\Facturas\bin\Debug\Facturas.pdb
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaV\Facturas\Facturas\obj\Debug\Facturas.csprojAssemblyReference.cache
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaV\Facturas\Facturas\obj\Debug\Facturas.Form1.resources
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaV\Facturas\Facturas\obj\Debug\Facturas.Properties.Resources.resources
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaV\Facturas\Facturas\obj\Debug\Facturas.csproj.GenerateResource.cache
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaV\Facturas\Facturas\obj\Debug\Facturas.exe
+C:\Users\mslopez\source\repos\proyectos-ip\PracticaV\Facturas\Facturas\obj\Debug\Facturas.pdb
