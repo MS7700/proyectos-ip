@@ -1,0 +1,16 @@
+C:\Users\hanie\Documents\My Projects\FTP_CLIENT\bin\Debug\net5.0\FTP_CLIENT.exe
+C:\Users\hanie\Documents\My Projects\FTP_CLIENT\bin\Debug\net5.0\FTP_CLIENT.deps.json
+C:\Users\hanie\Documents\My Projects\FTP_CLIENT\bin\Debug\net5.0\FTP_CLIENT.runtimeconfig.json
+C:\Users\hanie\Documents\My Projects\FTP_CLIENT\bin\Debug\net5.0\FTP_CLIENT.runtimeconfig.dev.json
+C:\Users\hanie\Documents\My Projects\FTP_CLIENT\bin\Debug\net5.0\FTP_CLIENT.dll
+C:\Users\hanie\Documents\My Projects\FTP_CLIENT\bin\Debug\net5.0\ref\FTP_CLIENT.dll
+C:\Users\hanie\Documents\My Projects\FTP_CLIENT\bin\Debug\net5.0\FTP_CLIENT.pdb
+C:\Users\hanie\Documents\My Projects\FTP_CLIENT\obj\Debug\net5.0\FTP_CLIENT.csproj.AssemblyReference.cache
+C:\Users\hanie\Documents\My Projects\FTP_CLIENT\obj\Debug\net5.0\FTP_CLIENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanie\Documents\My Projects\FTP_CLIENT\obj\Debug\net5.0\FTP_CLIENT.AssemblyInfoInputs.cache
+C:\Users\hanie\Documents\My Projects\FTP_CLIENT\obj\Debug\net5.0\FTP_CLIENT.AssemblyInfo.cs
+C:\Users\hanie\Documents\My Projects\FTP_CLIENT\obj\Debug\net5.0\FTP_CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\hanie\Documents\My Projects\FTP_CLIENT\obj\Debug\net5.0\FTP_CLIENT.dll
+C:\Users\hanie\Documents\My Projects\FTP_CLIENT\obj\Debug\net5.0\ref\FTP_CLIENT.dll
+C:\Users\hanie\Documents\My Projects\FTP_CLIENT\obj\Debug\net5.0\FTP_CLIENT.pdb
+C:\Users\hanie\Documents\My Projects\FTP_CLIENT\obj\Debug\net5.0\FTP_CLIENT.genruntimeconfig.cache
