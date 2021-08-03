@@ -25,6 +25,24 @@ namespace FTP_CLIENT
             password = pass;
         }
 
+        public bool conectado()
+        {
+            bool conectado = false;
+            try
+            {
+                FtpWebRequest request = (FtpWebRequest)WebRequest.Create(host);
+                request.Method = WebRequestMethods.Ftp.ListDirectory;
+                request.Credentials = new NetworkCredential(usuario, password);
+                request.GetResponse();
+                conectado = true;
+            }
+            catch (WebException ex)
+            {
+                Console.WriteLine($"No se ha podido establacer la conexion debido al siguiente error: {ex}");
+            }
+            return conectado;
+        }
+
         public void upload(string remoteFile, string localFile)
         {
             try

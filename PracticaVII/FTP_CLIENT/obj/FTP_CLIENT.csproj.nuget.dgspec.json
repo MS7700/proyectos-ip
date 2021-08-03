@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hanie\\Documents\\My Projects\\FTP_CLIENT\\FTP_CLIENT.csproj": {}
+    "C:\\Users\\hanie\\Documents\\GitHub\\proyectos-ip\\PracticaVII\\FTP_CLIENT\\FTP_CLIENT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hanie\\Documents\\My Projects\\FTP_CLIENT\\FTP_CLIENT.csproj": {
+    "C:\\Users\\hanie\\Documents\\GitHub\\proyectos-ip\\PracticaVII\\FTP_CLIENT\\FTP_CLIENT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hanie\\Documents\\My Projects\\FTP_CLIENT\\FTP_CLIENT.csproj",
+        "projectUniqueName": "C:\\Users\\hanie\\Documents\\GitHub\\proyectos-ip\\PracticaVII\\FTP_CLIENT\\FTP_CLIENT.csproj",
         "projectName": "FTP_CLIENT",
-        "projectPath": "C:\\Users\\hanie\\Documents\\My Projects\\FTP_CLIENT\\FTP_CLIENT.csproj",
+        "projectPath": "C:\\Users\\hanie\\Documents\\GitHub\\proyectos-ip\\PracticaVII\\FTP_CLIENT\\FTP_CLIENT.csproj",
         "packagesPath": "C:\\Users\\hanie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hanie\\Documents\\My Projects\\FTP_CLIENT\\obj\\",
+        "outputPath": "C:\\Users\\hanie\\Documents\\GitHub\\proyectos-ip\\PracticaVII\\FTP_CLIENT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hanie\\AppData\\Roaming\\NuGet\\NuGet.Config",
