@@ -1,5 +1,6 @@
 CREATE DATABASE DWH
 
+use dwh;
 CREATE TABLE Articulos (
   id_articulo int not null IDENTITY(1,1),
   descripcion NCHAR (10) not NULL
@@ -8,6 +9,13 @@ CREATE TABLE Articulos (
 CREATE TABLE Clientes (
   id_cliente int not NULL IDENTITY (1,1),
   nombre_cliente VARCHAR (50) not NULL
+)
+
+CREATE TABLE Empleados (
+  id_empleado int not NULL IDENTITY (1,1),
+  nombre_empleado VARCHAR (50) not NULL,
+  departamento_empleado VARCHAR (50) not NULL,
+  estado_empleado bit not NULL
 )
 
 CREATE TABLE Region (
@@ -28,20 +36,21 @@ CREATE TABLE Factura_Ventas (
   id_vendedor int not NULL
 )
 
+
 --select desde un servidor remoto
 
-select * from nombre_servidor.DWH.dbo.Factura_Ventas
+select * from [LAPTOP-6NR7NCCT\MSSQLSERVER01].[DWH].[dbo].[Empleados];
 
 --insert desde un servidor remoto
 
-insert into [nombre_servidor].[DWH].[dbo].Clientes (nombre_cliente) VALUES ('Eduardo Duran')
+insert into [LAPTOP-6NR7NCCT\MSSQLSERVER01].[DWH].[dbo].[Empleados] (nombre_empleado,departamento_empleado,estado_empleado) values ('Gabriel Ventura','Seguridad',1);
 
 --update desde un servidor remoto
 
-update openquery(‘nombre_servidor, ‘select nombre_vendedor from dbo.Vendedores where nombre_vendedor = 'Eduardo Duran'’)
-set nombre_vendedor = ‘Sebastian Lopez’
+update openquery(‘[LAPTOP-6NR7NCCT\MSSQLSERVER01], ‘select nombre_empleado from [DWH].[dbo].[Empleados] where nombre_empleado = 'Gabriel Ventura'’)
+set nombre_empleado = 'Pedro Báez'
 
 --DELETE
 
-delete from openqueryopenquery(‘nombre_servidor, ‘select * from dbo.Clientes
-      where nombre_cliente = 'Eduardo Duran'’)
+delete from openqueryopenquery(‘[LAPTOP-6NR7NCCT\MSSQLSERVER01], ‘select * from [DWH].[dbo].[Empleados]
+      where nombre_empleado = 'Pedro Báez'’)
