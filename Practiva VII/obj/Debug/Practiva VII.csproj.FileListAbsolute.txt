@@ -1,0 +1,7 @@
+C:\Users\hanie\Documents\My Projects\Practiva VII\bin\Debug\Practiva VII.exe.config
+C:\Users\hanie\Documents\My Projects\Practiva VII\bin\Debug\Practiva VII.exe
+C:\Users\hanie\Documents\My Projects\Practiva VII\bin\Debug\Practiva VII.pdb
+C:\Users\hanie\Documents\My Projects\Practiva VII\obj\Debug\Practiva VII.csproj.AssemblyReference.cache
+C:\Users\hanie\Documents\My Projects\Practiva VII\obj\Debug\Practiva VII.csproj.CoreCompileInputs.cache
+C:\Users\hanie\Documents\My Projects\Practiva VII\obj\Debug\Practiva VII.exe
+C:\Users\hanie\Documents\My Projects\Practiva VII\obj\Debug\Practiva VII.pdb
